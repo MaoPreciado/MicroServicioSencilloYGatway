@@ -55,3 +55,8 @@ H
 microservice-course/mvnw,b\4\b4040048321c36d17417e8cd9d059bacfaf3f667
 G
 SpringMicroservices.iml,3\4\348eda86dcbc3515123b9b5cf72ebfbb87e73bc3
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+H
+microservice-eureka/mvnw,1\b\1baea8be765dbfa6960b35d144cd5daa6664a373
